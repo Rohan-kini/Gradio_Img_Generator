@@ -1,0 +1,91 @@
+[
+    {
+      "name": "Chicken Curry",
+      "calories": 118,
+      "protein": 15,
+      "carbohydrates": 5,
+      "fat": 4,
+      "fiber": 2
+    },
+    {
+      "name": "Grilled Salmon",
+      "calories": 206,
+      "protein": 22,
+      "carbohydrates": 0,
+      "fat": 13,
+      "fiber": 0
+    },
+    {
+      "name": "Caesar Salad",
+      "calories": 190,
+      "protein": 6,
+      "carbohydrates": 8,
+      "fat": 15,
+      "fiber": 3
+    },
+    {
+      "name": "Spaghetti Bolognese",
+      "calories": 250,
+      "protein": 12,
+      "carbohydrates": 30,
+      "fat": 8,
+      "fiber": 4
+    },
+    {
+      "name": "Vegetable Stir Fry",
+      "calories": 150,
+      "protein": 4,
+      "carbohydrates": 20,
+      "fat": 5,
+      "fiber": 6
+    },
+    {
+      "name": "Beef Tacos",
+      "calories": 210,
+      "protein": 14,
+      "carbohydrates": 20,
+      "fat": 10,
+      "fiber": 2
+    },
+    {
+      "name": "Greek Yogurt",
+      "calories": 100,
+      "protein": 10,
+      "carbohydrates": 8,
+      "fat": 5,
+      "fiber": 0
+    },
+    {
+      "name": "Quinoa Salad",
+      "calories": 220,
+      "protein": 8,
+      "carbohydrates": 34,
+      "fat": 7,
+      "fiber": 5
+    },
+    {
+      "name": "Roasted Chicken Breast",
+      "calories": 165,
+      "protein": 31,
+      "carbohydrates": 0,
+      "fat": 4,
+      "fiber": 0
+    },
+    {
+      "name": "Oatmeal",
+      "calories": 150,
+      "protein": 5,
+      "carbohydrates": 27,
+      "fat": 3,
+      "fiber": 4
+    },
+    {
+      "name": "Avocado Toast",
+      "calories": 240,
+      "protein": 6,
+      "carbohydrates": 22,
+      "fat": 15,
+      "fiber": 6
+    }
+  ]
+  
